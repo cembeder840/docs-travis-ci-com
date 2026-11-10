@@ -231,7 +231,7 @@ GEM
     puma (7.0.0)
       nio4r (~> 2.0)
     racc (1.8.1)
-    rack (3.1.16)
+    rack (3.1.23)
     rack-jekyll (0.3.5)
       jekyll
       rack
@@ -333,7 +333,7 @@ DEPENDENCIES
   netrc
   pry
   puma
-  rack (~> 3.0)
+  rack (~> 3.1)
   rack-jekyll
   rack-ssl-enforcer
   rake
